@@ -21,7 +21,7 @@ This project uses OpenCV to apply real-time color filtering through a webcam. Th
 
 ## Sample Output
 
-### Red Color Isolated
+### Blue Color Isolated
 ![Red Detection](sample_output/blue_detection.png)
 
 
